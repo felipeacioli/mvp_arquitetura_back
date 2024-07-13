@@ -17,6 +17,11 @@ Listar todos os materias disponíveis em estoque;
 Melhorar o planejamento da manutenção ao fornecer sobre o estoque disponível.
 
 ---
+## Arquitetura da Aplicação     
+
+![image](https://github.com/user-attachments/assets/b407d9df-9708-47fb-9b74-83800db91d62)
+
+---
 ## Como executar 
 
 
@@ -45,6 +50,8 @@ automaticamente após uma mudança no código fonte.
 ```
 
 Abra o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador para verificar o status da API em execução.
+
+
 
 Link para o front: 
 
