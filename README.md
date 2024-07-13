@@ -41,9 +41,15 @@ Em modo de desenvolvimento é recomendado executar utilizando o parâmetro reloa
 automaticamente após uma mudança no código fonte. 
 
 ```
+
+
+![image](https://github.com/user-attachments/assets/012de8fd-d670-4cd0-9385-9b01aa150bd2)
+
 (env)$ flask run --host 0.0.0.0 --port 5000 --reload
 ```
 
 Abra o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador para verificar o status da API em execução.
 
 Link para o front: 
+
+![image](https://github.com/user-attachments/assets/e093c5c7-a8bd-4080-b5bb-142b54f5e5ff)
