@@ -1,6 +1,6 @@
 # API para cadastrar materiais
 
-Este pequeno projeto é um MVP integrante da sprint I (Desenvolvimento Full Stack Básico) da pós-graduação em Engenharia de Software da PUC Rio. 
+Este projeto é um MVP integrante da sprint Arquiteetura de Software da pós-graduação em Engenharia de Software da PUC Rio. 
 
 # Justicativa:
 
