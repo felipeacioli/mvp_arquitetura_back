@@ -1,6 +1,6 @@
 # API para cadastrar materiais
 
-Este projeto é um MVP integrante da sprint Arquiteetura de Software da pós-graduação em Engenharia de Software da PUC Rio. 
+Este projeto é um MVP integrante da sprint Arquitetura de Software da pós-graduação em Engenharia de Software da PUC Rio. 
 
 # Justicativa:
 
